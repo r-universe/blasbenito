@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "distantia"]
+	path = distantia
+	url = https://github.com/blasbenito/distantia
+	shallow = true
+	registered = true
 [submodule "spatialRF"]
 	path = spatialRF
 	url = https://github.com/blasbenito/spatialrf
