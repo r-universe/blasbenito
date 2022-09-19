@@ -1,9 +1,5 @@
 [
   {
-    "package": "distantia",
-    "oncran": true
-  },
-  {
     "package": "spatialRF",
     "oncran": true
   },
