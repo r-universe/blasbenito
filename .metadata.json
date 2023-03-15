@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "memoria",
+    "oncran": true
+  },
+  {
     "package": "spatialRF",
     "oncran": true
   },

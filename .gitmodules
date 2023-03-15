@@ -8,6 +8,11 @@
 	url = https://github.com/blasbenito/distantia
 	shallow = true
 	registered = true
+[submodule "memoria"]
+	path = memoria
+	url = https://github.com/blasbenito/memoria
+	shallow = true
+	registered = true
 [submodule "spatialRF"]
 	path = spatialRF
 	url = https://github.com/blasbenito/spatialrf
